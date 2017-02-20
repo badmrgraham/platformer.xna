@@ -1,0 +1,2 @@
+C:\platformer\Platformer\Platformer\PlatformerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\workspace\Platformer\platformer\Platformer\PlatformerContent\obj\x86\Debug\ResolveAssemblyReference.cache

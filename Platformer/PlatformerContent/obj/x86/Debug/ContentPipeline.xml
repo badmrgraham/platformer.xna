@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\baseFont.spritefont</Source>
+      <Name>Fonts\baseFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\workspace\Platformer\platformer\Platformer\Platformer\bin\x86\Debug\Content\Fonts\baseFont.xnb</Output>
+      <Time>2012-04-24T14:23:38.8896092-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\spritemap.bmp</Source>
+      <Name>Sprites\spritemap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 117, 209, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\workspace\Platformer\platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\spritemap.xnb</Output>
+      <Time>2012-04-24T14:23:38.8976097-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player.bmp</Source>
+      <Name>Sprites\Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 117, 209, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\workspace\Platformer\platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\Player.xnb</Output>
+      <Time>2012-04-24T14:23:38.8936095-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\running.bmp</Source>
+      <Name>Sprites\running</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 117, 209, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\workspace\Platformer\platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\running.xnb</Output>
+      <Time>2012-04-24T14:23:38.8966096-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\idle.bmp</Source>
+      <Name>Sprites\idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 117, 209, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\workspace\Platformer\platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\idle.xnb</Output>
+      <Time>2012-04-24T14:23:38.8946095-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\swordslash.bmp</Source>
+      <Name>Sprites\swordslash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 117, 209, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\workspace\Platformer\platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\swordslash.xnb</Output>
+      <Time>2012-04-24T14:23:38.8986098-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\blobIdle.bmp</Source>
+      <Name>Sprites\blobIdle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 117, 209, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>E:\workspace\Platformer\platformer\Platformer\Platformer\bin\x86\Debug\Content\Sprites\blobIdle.xnb</Output>
+      <Time>2012-04-24T14:23:38.8936095-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\workspace\Platformer\platformer\Platformer\PlatformerContent\</RootDirectory>
+      <LoggerRootDirectory>E:\workspace\Platformer\platformer\Platformer\Platformer\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\workspace\Platformer\platformer\Platformer\PlatformerContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\workspace\Platformer\platformer\Platformer\Platformer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-04-23T16:53:17.0113311-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,46 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="06EA9F40-967B-48DE-8C83-CE7373DBC5FE/f:Camera.cs" caret="200" fromTop="9" />
+      <File id="06EA9F40-967B-48DE-8C83-CE7373DBC5FE/f:Level.cs" caret="7905" fromTop="5" />
+      <File id="06EA9F40-967B-48DE-8C83-CE7373DBC5FE/f:AnimationPlayer.cs" caret="3038" fromTop="27" />
+      <File id="06EA9F40-967B-48DE-8C83-CE7373DBC5FE/f:Player.cs" caret="972" fromTop="26" />
+      <File id="06EA9F40-967B-48DE-8C83-CE7373DBC5FE/f:Game1.cs" caret="2441" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="06EA9F40-967B-48DE-8C83-CE7373DBC5FE/f:Game1.cs" caret="1335" fromTop="13" />
+      <File id="06EA9F40-967B-48DE-8C83-CE7373DBC5FE/f:Player.cs" caret="1816" fromTop="35" />
+      <File id="06EA9F40-967B-48DE-8C83-CE7373DBC5FE/f:Player.cs" caret="597" fromTop="10" />
+      <File id="06EA9F40-967B-48DE-8C83-CE7373DBC5FE/f:Player.cs" caret="597" fromTop="33" />
+      <File id="06EA9F40-967B-48DE-8C83-CE7373DBC5FE/f:Player.cs" caret="597" fromTop="5" />
+      <File id="06EA9F40-967B-48DE-8C83-CE7373DBC5FE/f:Player.cs" caret="1390" fromTop="33" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="public" priority="31" />
+      <Item value="Matrix`0" priority="63" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Matrix">
+      <Item value="Identity" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
